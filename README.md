@@ -1,2 +1,2 @@
-# onijimbo.github.io
-this is a site for class
+# react-portfolio
+this is a recreation of my portfolio using react
